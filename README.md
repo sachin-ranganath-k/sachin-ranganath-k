@@ -45,7 +45,7 @@ Software Engineer. Skilled in User Interface Design with UI frameworks - Bootstr
 
 <p align="center">
 <!--<a href="https://"><img alt="PortFolio" src="https://img.shields.io/badge/Portfolio-www.devismail.netlify.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://https://www.linkedin.com/in/ranganath-kulkarni-5bb146139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--white?style=social&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ranganath-kulkarni-5bb146139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--white?style=social&logo=linkedin"></a>
 <!-- <a href="https://www.facebook.com"><img alt="Facebook" src="https://img.shields.io/badge/shailesh-facebook-blue?style=flat&logo=facebook"></a> -->
 <a href="mailto:ranganathnkulkarni@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--white?style=social&logo=gmail"></a>
 <a href="https://www.facebook.com/simhasachin"><img alt="Facebook" src="https://img.shields.io/badge/Facebook--white?style=social&logo=facebook"></a>
