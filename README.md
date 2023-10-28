@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-ranganath-k&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-ranganath-k" /> </p>
 
-Software Engineer. Skilled in User Interface Design with UI frameworks - Bootstrap, Custom CSS, CSS3, SCSS, Front-end development with React, Redux thunk, JavaScript. Backend development with MySQL, Oracle, PHP.
+Software Engineer. Skilled in User Interface Design with UI frameworks - Bootstrap, Custom CSS, CSS3, SCSS, Front-end development with React, Redux thunk, Redux saga, JavaScript. Backend development with MySQL, Oracle, PHP.
 <!-- <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; PHP | React
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
